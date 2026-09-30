@@ -6,10 +6,11 @@
 
 ## 项目概览
 
-这个仓库目前包含两类核心内容：
+这个仓库目前包含三类核心内容：
 
 1. 嵌入式与 C/C++ 体系的系统学习路线：位于 `docs/`。
 2. 其他主流技术栈的快速入门与实战路径：位于 `python/`、`lua/`、`threejs/`、`elasticsearch/`、`pytorch/`。
+3. 企业级前端与全栈工程化学习路线：位于 `frontend/`。
 
 你可以按自己的学习目标选择合适的路径：
 
@@ -19,6 +20,7 @@
 - 想学习 WebGL / Three.js：参考 `threejs/`。
 - 想了解搜索引擎：参考 `elasticsearch/`。
 - 想入门深度学习与 PyTorch：参考 `pytorch/`。
+- 想精通 Vue 3 + TypeScript 企业级前端及团队管理能力：参考 `frontend/`。
 
 ---
 
@@ -50,6 +52,7 @@
 | [threejs/](threejs/) | Three.js 3D / WebGL 学习 | [threejs/README.md](threejs/README.md) |
 | [elasticsearch/](elasticsearch/) | Elasticsearch 与搜索引擎 | [elasticsearch/README.md](elasticsearch/README.md) |
 | [pytorch/](pytorch/) | PyTorch 与深度学习入门 | [pytorch/README.md](pytorch/README.md) |
+| [frontend/](frontend/) | Vue 3 & TypeScript 企业级前端架构师通关指南 | [frontend/README.md](frontend/README.md) |
 
 ---
 
@@ -58,7 +61,7 @@
 1. **零基础**：从 `docs/01_c_fundamentals.md` 开始，按顺序阅读并完成每章的代码练习。
 2. **有 C 基础**：可以跳到 `docs/03_cpp_fundamentals.md`，或直接阅读嵌入式篇 `docs/06_embedded_fundamentals.md`。
 3. **跨语言开发者**：先阅读附录 A 了解 C / C++ / C# 差异，再按需选读专题目录。
-4. **专项提升**：若你专注于某个方向，可直接进入对应目录，如 Python、Lua、Three.js 或 PyTorch。
+4. **专项提升**：若你专注于某个方向，可直接进入对应目录，如 Python、Lua、Three.js、PyTorch 或 Frontend。
 
 ---
 
