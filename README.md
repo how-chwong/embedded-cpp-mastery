@@ -50,6 +50,7 @@
 | [threejs/](threejs/) | Three.js 3D / WebGL 学习 | [threejs/README.md](threejs/README.md) |
 | [elasticsearch/](elasticsearch/) | Elasticsearch 与搜索引擎 | [elasticsearch/README.md](elasticsearch/README.md) |
 | [pytorch/](pytorch/) | PyTorch 与深度学习入门 | [pytorch/README.md](pytorch/README.md) |
+| [vue/](vue/) | Vue 3 + TypeScript 前端全栈 | [vue/README.md](vue/README.md) |
 
 ---
 
